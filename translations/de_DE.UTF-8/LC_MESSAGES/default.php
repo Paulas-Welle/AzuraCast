@@ -7,7 +7,7 @@
     array (
       '%{messages} queued messages' => '%{messages} in der Warteschlange',
       'A name for this stream that will be used internally in code. Should only contain letters, numbers, and underscores (i.e. "stream_lofi").' => 'Ein Name für diesen Stream, der intern im Code verwendet werden soll. Er sollte nur Buchstaben, Zahlen und Unterstriche enthalten (z.B. "stream_lofi").',
-      'A unique identifier (i.e. "G-A1B2C3D4") for this measurement stream.' => 'Ein eindeutiger Bezeichner (z. B. "G-A1B2C3D4") für diesen Messdatenstrom.',
+      'A unique identifier (i.e. "G-A1B2C3D4") for this measurement stream.' => 'Eine eindeutige Bezeichnung (z. B. "G-A1B2C3D4") für diesen Stream.',
       'About AzuraRelay' => 'Über AzuraRelay',
       'About Master_me' => 'Über Master_me',
       'About Release Channels' => 'Über Freigabekanäle',
